@@ -126,13 +126,13 @@ This project prioritizes clarity and control over automation.
 ## 🤔 Why I Built This
 
 I built this project after noticing how credential rotation is usually handled:
-with reminders, notes, or tribal knowledge — until it’s forgotten.
+with reminders, notes, or tribal knowledge; until it’s forgotten.
 
 Most security failures aren’t caused by missing tools, but by missing visibility.
 This project focuses on making time-based risk obvious, without introducing
 automation, infrastructure, or complexity.
 
-The goal was to build something small, realistic, and useful —
+The goal was to build something small, realistic, and useful,
 the kind of internal tool that quietly improves security hygiene.
 
 
